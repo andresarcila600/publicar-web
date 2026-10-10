@@ -24,12 +24,11 @@ los revises.
 Abre Claude Code en la carpeta de tu proyecto y pídeselo:
 
 ```
-Quiero instalar la skill de este repositorio:
+Instala la skill de este repositorio:
 https://github.com/andresarcila600/publicar-web
 
-Antes de instalar nada, dime qué es, quién lo hizo, qué trae y si corre algún
-programa en mi computador. Espera mi sí. Cuando te diga que sí, copia la carpeta
-publicar-web del repositorio a .claude/skills/ de esta carpeta, sin cambiarle nada.
+Copia la carpeta publicar-web del repositorio a .claude/skills/ de esta carpeta,
+sin cambiarle nada.
 ```
 
 A mano: botón verde **Code** → **Download ZIP**, descomprime y copia la carpeta `publicar-web` dentro de
